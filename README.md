@@ -6,4 +6,4 @@ In this repository you can find different files, tips and other stuff that repre
 
 The main idea is to create a small but high-quality archiviz shader pack that won't use much memory and will be runable in modern render engines.
 
-After having weighed all the pros and cons, Open Shading Language was chosen for the shaders implementation. Here you will find rendered images showing the difference between engines(commonly RenderMan 21.5 and BlenderCycles ver2.79 ) with the same materials applied.
+After having weighed all the pros and cons, Open Shading Language was chosen for the shaders implementation. I will put rendered images so you can examine the difference of the look between engines(commonly RenderMan 21.5 and BlenderCycles ver2.79 ) with the same materials applied.
